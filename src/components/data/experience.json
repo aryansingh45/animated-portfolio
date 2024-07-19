@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "role": "Web developer intern",
+    "organisation": "Celebal Technologies",
+    "startDate": "May, 2023",
+    "endDate": "July, 2023",
+    "experiences": [{ "id": 1, "description": "Worked under Reactjs domain" }],
+    "imageSrc": "company/celebal-logo.png"
+  },
+  {
+    "id": 2,
+    "role": "Externship program",
+    "organisation": "SmartInternz",
+    "startDate": "May, 2023",
+    "endDate": "July, 2023",
+    "experiences": [
+      {
+        "id": 1,
+        "description": "Externship program on applied data science powered by google developers"
+      },
+      {
+        "id": 2,
+        "description": "Build a supervised machine learning project titled as Laptop Price Predictor"
+      }
+    ],
+    "imageSrc": "company/smartinternz.png"
+  }
+]
